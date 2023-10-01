@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **BlockChain ,Web Sockets**
+- 🌱 I’m currently learning **BlockChain and Web Sockets**
 
 - 👨‍💻 All of my projects are available at [https://trytwo-a2eb2.web.app/](https://trytwo-a2eb2.web.app/)
 
