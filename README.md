@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://trytwo-a2eb2.web.app/](https://trytwo-a2eb2.web.app/)
 
-- 💬 Ask me about **Flutter Dart , Android , FireBase**
+- 💬 Ask me about **Flutter-Dart , Android , FireBase, Express.js**
 
 - ⚡ Fun fact **I am funny as well as a Introvert**
 
